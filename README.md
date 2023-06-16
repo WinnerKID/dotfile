@@ -1,6 +1,7 @@
 # MY AWESOMEWM DOTFILE
 minimalistic awesomewm dotfile
 
+## Rice
 ![alt text](https://media.discordapp.net/attachments/1080621207512174592/1115483937309982751/image.png)
 
 ## Setup
