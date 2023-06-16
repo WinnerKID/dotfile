@@ -1,0 +1,2 @@
+# dotfile
+minimalistic awesomewm dotfile
