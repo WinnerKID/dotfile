@@ -1,2 +1,2 @@
-# dotfile
+# My Awesomewm Dotfile
 minimalistic awesomewm dotfile
