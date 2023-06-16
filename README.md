@@ -1,7 +1,7 @@
-# MY AWESOMEWM DOTFILE
-minimalistic awesomewm dotfile
+<div align="center">
+<h1>Minimalistic Awesomewm Dotfile</h1>
+</div>
 
-## Rice
 ![alt text](https://media.discordapp.net/attachments/1080621207512174592/1115483937309982751/image.png)
 ![alt text](https://media.discordapp.net/attachments/1080621207512174592/1119160884875513966/image.png)
 
