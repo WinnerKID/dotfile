@@ -425,7 +425,7 @@ infobox = wibox.widget {
 
                               position     = "top", 
                               screen       = s,
-                              stretch      = false,
+                              stretch      = true,
                               height       = dpi(32),
                               width        = dpi(1900),
                               --border_width = dpi(2),
@@ -459,6 +459,7 @@ infobox = wibox.widget {
         infobox,
         --spacer,
         mylayoutbox,
+        spacer,
 
       },
     },
